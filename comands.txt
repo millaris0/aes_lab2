@@ -1,0 +1,8 @@
+move -3
+add 2100000
+save R1
+move 4
+save R2
+add_mode2 2
+add_mode2 R2
+move R1
